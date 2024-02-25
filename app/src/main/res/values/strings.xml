@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chemical Guess</string>
+    <string name="text_name">Enter a chemical name or guess:</string>
+    <string name="btn_guess">Guess</string>
+    <string name="btn_add">Add Chemical</string>
+    <string name="hint1">Type here</string>
+    <string name="hint2">Type a new chemical name to add</string>
+    <string name="img_desc1">Chemical</string>
+</resources>
